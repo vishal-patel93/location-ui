@@ -1,0 +1,15 @@
+.location-full-width {
+    width: 100%;
+}
+
+.location-container, mat-form-field {
+    text-align: center;
+}
+
+.location-container {
+    margin-top: 100px;
+}
+
+.search-box {
+    padding-right: 10px;
+}
